@@ -107,7 +107,7 @@ print(heartrate_seconds_merged.describe())
 
 
 
-'''
+
 
 #2.verifying correlation between steps and calories burned
 
@@ -241,7 +241,7 @@ else:
     print("Error: 'ActivityHour' column is empty.")
 
 
-'''
+
 
 
 
