@@ -1,3 +1,3 @@
-                                                               BELLABEAT DATA ANALYTICS CASESTUDY USING PYTHON
+                                                               **BELLABEAT DATA ANALYTICS CASESTUDY USING PYTHON**
 
                                                                
