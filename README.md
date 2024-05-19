@@ -305,7 +305,7 @@ Participants, on average, have 1.12 sleep records and spend approximately 419 mi
 Heart rate data shows an average value of 77.33.   which is good 
 
 **6.**
-average weight of 62.5 kg.
+Average weight of 62.5 kg.
 
 ##### 2. steps taken vs calorie burned 
 From the above observations we can see that avg steps taken = 7637 and calorie burned = 2303 per day indicating there could be a positive correlation between them 
@@ -481,19 +481,19 @@ output:
 ### overall observations 
 
 
-**1.** users donot get recommended 8 hrs sleep 
+**1.** Users donot get recommended 8 hrs sleep 
 
 
-**2.** heart rate and weights are in recommended range . 
+**2.** Heart rate and weights are in recommended range . 
 
 
-**3.** users are taking less number of steps and excercise on weekends .
+**3.** U are taking less number of steps and excercise on weekends .
 
 
-**4.** users are most active around 7-9 p.m .
+**4.** Users are most active around 7-9 p.m .
 
 
-**5.** users are taking more number steps at this time too 7-9 p.m . This probably indicates that most of the active users are working class women and they do excercise after they are done with work at office .
+**5.** Users are taking more number steps at this time too 7-9 p.m . This probably indicates that most of the active users are working class women and they do excercise after they are done with work at office .
 
 
 ### Suggestions (ACT phase)
@@ -505,7 +505,7 @@ output:
 **2.** Product could focus on motivating the users to work on weekends too since we can see that users are not working out enough on weekends as they do in other weekdays . 
 
 
-**3.** It seems that most of the active users are working class women as per the hourly intensities data . so target audience for marketing will be working class women . so company needs to advertise on platforms where most working women engage or use . 
+**3.** It seems that most of the active users are working class women as per the hourly intensities data . So target audience for marketing will be working class women . So company needs to advertise on platforms where most working women engage or use . 
 
 
 
