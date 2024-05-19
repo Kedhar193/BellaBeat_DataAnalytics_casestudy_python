@@ -487,7 +487,7 @@ output:
 **2.** Heart rate and weights are in recommended range . 
 
 
-**3.** U are taking less number of steps and excercise on weekends .
+**3.** Users are taking less number of steps and excercise on weekends .
 
 
 **4.** Users are most active around 7-9 p.m .
