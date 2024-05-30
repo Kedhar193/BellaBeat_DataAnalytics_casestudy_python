@@ -154,7 +154,7 @@ minuteSleep_merged=pd.read_csv(r"F:\dataanalytics project\Fitabase Data 4.12.16-
 minuteStepsNarrow_merged=pd.read_csv(r"F:\dataanalytics project\Fitabase Data 4.12.16-5.12.16\minuteStepsNarrow_merged.csv")
 minuteStepsWide_merged=pd.read_csv(r"F:\dataanalytics project\Fitabase Data 4.12.16-5.12.16\minuteStepsWide_merged.csv")
 sleepDay_merged=pd.read_csv(r"F:\dataanalytics project\Fitabase Data 4.12.16-5.12.16\sleepDay_merged.csv")
-weightLogInfo_merged=pd.read_csv(r"F:\dataanalytics project\Fitabase Data 4.12.1
+weightLogInfo_merged=pd.read_csv(r"F:\dataanalytics project\Fitabase Data 4.12.16-5.12.16\weightLogInfo_merged.csv")
 ```
 
 **2.Understanding Data Structures and cleaning**
